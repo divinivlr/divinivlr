@@ -1,12 +1,15 @@
 ## Hello World, Eu sou Marcos Vinícius
 
 > 🎓**Estudante de Análise e Desenvolvimento de Sistemas** | Unibra - Boa Vista/Recife-PE <br>
- <img align="right" height="160" width="180" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif">
+> 
+
  
-<div>
+ ## 📊 Stats
+ 
+<div align="center">
   <a href="https://github.com/divinivlr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divinivlr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinivlr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="138em" src="https://github-readme-stats.vercel.app/api?username=divinivlr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinivlr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   
