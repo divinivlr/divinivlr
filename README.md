@@ -9,7 +9,7 @@
 <div align="left">
   <a href="https://github.com/divinivlr">
   <img height="138em" src="https://github-readme-stats.vercel.app/api?username=divinivlr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinivlr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinivlr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   
